@@ -1,4 +1,4 @@
-//Gal Giladi 312491616
+//Gal Giladi
 // C Program to design a shell in Linux.
 #include<stdio.h>
 #include<string.h>
