@@ -1,5 +1,5 @@
 #!/bin/bash
-#Gal Giladi 312491616
+#Gal Giladi 
 path=$1
 word=$2
 numOfArgs=$#
